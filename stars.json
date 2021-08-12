@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "DevHedronYT/c_std_lib",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "freeplane/freeplane",
+    "stargazers_count": 785,
+    "open_issues_count": 61,
+    "forks_count": 190
+  },
+  {
     "full_name": "mob-programming-meetup/cloud-desktop",
     "stargazers_count": 3,
     "open_issues_count": 3,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "ncase/wbwwb",
-    "stargazers_count": 720,
+    "stargazers_count": 719,
     "open_issues_count": 12,
     "forks_count": 140
   },
@@ -19,7 +31,7 @@
   },
   {
     "full_name": "skiptirengu/media-split",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -31,15 +43,15 @@
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 676,
+    "stargazers_count": 677,
     "open_issues_count": 60,
     "forks_count": 43
   },
   {
     "full_name": "google/model-viewer",
-    "stargazers_count": 3221,
-    "open_issues_count": 103,
-    "forks_count": 389
+    "stargazers_count": 3229,
+    "open_issues_count": 105,
+    "forks_count": 391
   },
   {
     "full_name": "doublevcodes/englang",
@@ -55,15 +67,15 @@
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 7624,
-    "open_issues_count": 842,
-    "forks_count": 1313
+    "stargazers_count": 7639,
+    "open_issues_count": 850,
+    "forks_count": 1316
   },
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 13783,
+    "stargazers_count": 13795,
     "open_issues_count": 7,
-    "forks_count": 586
+    "forks_count": 587
   },
   {
     "full_name": "tsoonjin/selam",
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "jeffThompson/DarkArduinoTheme",
-    "stargazers_count": 729,
+    "stargazers_count": 731,
     "open_issues_count": 1,
-    "forks_count": 170
+    "forks_count": 171
   },
   {
     "full_name": "greister/Awesome-Julia",
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "rwaldron/johnny-five",
-    "stargazers_count": 12350,
+    "stargazers_count": 12354,
     "open_issues_count": 41,
     "forks_count": 1760
   },
   {
     "full_name": "SheetJS/sheetjs",
-    "stargazers_count": 26915,
-    "open_issues_count": 514,
-    "forks_count": 6920
+    "stargazers_count": 26950,
+    "open_issues_count": 518,
+    "forks_count": 6933
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 25639,
-    "open_issues_count": 59,
-    "forks_count": 2720
+    "stargazers_count": 25685,
+    "open_issues_count": 60,
+    "forks_count": 2725
   },
   {
     "full_name": "emreuenal/turkiye-il-ilce-sokak-mahalle-veri-tabani",
     "stargazers_count": 40,
     "open_issues_count": 2,
     "forks_count": 15
-  },
-  {
-    "full_name": "jpweeks/particulate-js",
-    "stargazers_count": 323,
-    "open_issues_count": 0,
-    "forks_count": 30
-  },
-  {
-    "full_name": "ayyucekizrak/Udemy_DerinOgrenmeyeGiris",
-    "stargazers_count": 263,
-    "open_issues_count": 1,
-    "forks_count": 158
   }
 ]
