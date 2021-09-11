@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "mdisec/golang-for-hackers-turkish-edition",
+    "stargazers_count": 149,
+    "open_issues_count": 0,
+    "forks_count": 13
+  },
+  {
     "full_name": "browserify/watchify",
     "stargazers_count": 1776,
     "open_issues_count": 38,
@@ -14,12 +20,12 @@
   {
     "full_name": "jborean93/smbprotocol",
     "stargazers_count": 140,
-    "open_issues_count": 11,
-    "forks_count": 43
+    "open_issues_count": 12,
+    "forks_count": 44
   },
   {
     "full_name": "deiv/driftnet",
-    "stargazers_count": 352,
+    "stargazers_count": 353,
     "open_issues_count": 13,
     "forks_count": 48
   },
@@ -31,7 +37,7 @@
   },
   {
     "full_name": "freeplane/freeplane",
-    "stargazers_count": 795,
+    "stargazers_count": 796,
     "open_issues_count": 62,
     "forks_count": 194
   },
@@ -43,7 +49,7 @@
   },
   {
     "full_name": "ncase/wbwwb",
-    "stargazers_count": 731,
+    "stargazers_count": 733,
     "open_issues_count": 11,
     "forks_count": 139
   },
@@ -73,8 +79,8 @@
   },
   {
     "full_name": "google/model-viewer",
-    "stargazers_count": 3361,
-    "open_issues_count": 103,
+    "stargazers_count": 3368,
+    "open_issues_count": 102,
     "forks_count": 402
   },
   {
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 7800,
-    "open_issues_count": 866,
-    "forks_count": 1333
+    "stargazers_count": 7813,
+    "open_issues_count": 859,
+    "forks_count": 1334
   },
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 13938,
+    "stargazers_count": 13957,
     "open_issues_count": 7,
-    "forks_count": 594
+    "forks_count": 595
   },
   {
     "full_name": "tsoonjin/selam",
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "konrad91/OneDarkArduino",
-    "stargazers_count": 112,
+    "stargazers_count": 113,
     "open_issues_count": 7,
     "forks_count": 14
   },
@@ -163,7 +169,7 @@
   },
   {
     "full_name": "greister/Awesome-Julia",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 6,
     "forks_count": 28
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "akito0107/ORF-Webcam-Server",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
