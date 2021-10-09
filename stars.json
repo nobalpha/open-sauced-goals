@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "EliseeCode/exolingo",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "SysSn13/leetcode-rating-predictor",
+    "stargazers_count": 42,
+    "open_issues_count": 5,
+    "forks_count": 8
+  },
+  {
     "full_name": "tunakasif/Electromagnetic-Suspension-System",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -7,7 +19,7 @@
   },
   {
     "full_name": "mdisec/golang-for-hackers-turkish-edition",
-    "stargazers_count": 195,
+    "stargazers_count": 196,
     "open_issues_count": 0,
     "forks_count": 17
   },
@@ -26,8 +38,8 @@
   {
     "full_name": "jborean93/smbprotocol",
     "stargazers_count": 145,
-    "open_issues_count": 13,
-    "forks_count": 46
+    "open_issues_count": 14,
+    "forks_count": 47
   },
   {
     "full_name": "deiv/driftnet",
@@ -43,8 +55,8 @@
   },
   {
     "full_name": "freeplane/freeplane",
-    "stargazers_count": 812,
-    "open_issues_count": 63,
+    "stargazers_count": 813,
+    "open_issues_count": 64,
     "forks_count": 194
   },
   {
@@ -79,15 +91,15 @@
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 728,
+    "stargazers_count": 727,
     "open_issues_count": 62,
     "forks_count": 49
   },
   {
     "full_name": "google/model-viewer",
-    "stargazers_count": 3442,
-    "open_issues_count": 104,
-    "forks_count": 413
+    "stargazers_count": 3449,
+    "open_issues_count": 103,
+    "forks_count": 414
   },
   {
     "full_name": "doublevcodes/englang",
@@ -103,13 +115,13 @@
   },
   {
     "full_name": "ppy/osu",
-    "stargazers_count": 8023,
-    "open_issues_count": 864,
+    "stargazers_count": 8038,
+    "open_issues_count": 856,
     "forks_count": 1357
   },
   {
     "full_name": "tc39/proposals",
-    "stargazers_count": 14115,
+    "stargazers_count": 14124,
     "open_issues_count": 7,
     "forks_count": 603
   },
@@ -157,7 +169,7 @@
   },
   {
     "full_name": "grishka/Houseclub",
-    "stargazers_count": 2494,
+    "stargazers_count": 2493,
     "open_issues_count": 109,
     "forks_count": 444
   },
@@ -166,17 +178,5 @@
     "stargazers_count": 114,
     "open_issues_count": 7,
     "forks_count": 15
-  },
-  {
-    "full_name": "jeffThompson/DarkArduinoTheme",
-    "stargazers_count": 742,
-    "open_issues_count": 1,
-    "forks_count": 175
-  },
-  {
-    "full_name": "greister/Awesome-Julia",
-    "stargazers_count": 135,
-    "open_issues_count": 6,
-    "forks_count": 28
   }
 ]
