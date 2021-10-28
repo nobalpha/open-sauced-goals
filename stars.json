@@ -1,32 +1,68 @@
 [
   {
+    "full_name": "HiKaylum/SpaceX-PY",
+    "stargazers_count": 10,
+    "open_issues_count": 2,
+    "forks_count": 8
+  },
+  {
+    "full_name": "edoardottt/programming-fundamentals",
+    "stargazers_count": 9,
+    "open_issues_count": 1,
+    "forks_count": 4
+  },
+  {
+    "full_name": "TheAlgorithms/Python",
+    "stargazers_count": 121777,
+    "open_issues_count": 226,
+    "forks_count": 32648
+  },
+  {
+    "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
+    "stargazers_count": 43490,
+    "open_issues_count": 593,
+    "forks_count": 5721
+  },
+  {
+    "full_name": "leonardomso/33-js-concepts",
+    "stargazers_count": 44512,
+    "open_issues_count": 6,
+    "forks_count": 5766
+  },
+  {
+    "full_name": "MohmedIkram/Hacktoberfest2021",
+    "stargazers_count": 64,
+    "open_issues_count": 24,
+    "forks_count": 220
+  },
+  {
     "full_name": "arviz-devs/arviz",
-    "stargazers_count": 1105,
-    "open_issues_count": 189,
+    "stargazers_count": 1106,
+    "open_issues_count": 192,
     "forks_count": 251
   },
   {
     "full_name": "MvvmCross/MvvmCross",
     "stargazers_count": 3579,
     "open_issues_count": 267,
-    "forks_count": 1287
+    "forks_count": 1288
   },
   {
     "full_name": "Ishaan28malik/Hacktoberfest-2021",
-    "stargazers_count": 545,
-    "open_issues_count": 382,
-    "forks_count": 1426
+    "stargazers_count": 547,
+    "open_issues_count": 384,
+    "forks_count": 1431
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 21435,
-    "open_issues_count": 944,
-    "forks_count": 40525
+    "stargazers_count": 21463,
+    "open_issues_count": 958,
+    "forks_count": 40563
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 10015,
-    "open_issues_count": 1624,
+    "stargazers_count": 10020,
+    "open_issues_count": 1625,
     "forks_count": 2292
   },
   {
@@ -85,9 +121,9 @@
   },
   {
     "full_name": "freeplane/freeplane",
-    "stargazers_count": 817,
+    "stargazers_count": 818,
     "open_issues_count": 64,
-    "forks_count": 195
+    "forks_count": 194
   },
   {
     "full_name": "mob-programming-meetup/cloud-desktop",
@@ -97,9 +133,9 @@
   },
   {
     "full_name": "ncase/wbwwb",
-    "stargazers_count": 745,
+    "stargazers_count": 746,
     "open_issues_count": 11,
-    "forks_count": 142
+    "forks_count": 143
   },
   {
     "full_name": "8427003/study-minix-os",
@@ -121,14 +157,14 @@
   },
   {
     "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 738,
+    "stargazers_count": 739,
     "open_issues_count": 64,
     "forks_count": 51
   },
   {
     "full_name": "google/model-viewer",
-    "stargazers_count": 3525,
-    "open_issues_count": 86,
+    "stargazers_count": 3528,
+    "open_issues_count": 87,
     "forks_count": 418
   },
   {
@@ -142,41 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "ppy/osu",
-    "stargazers_count": 8188,
-    "open_issues_count": 870,
-    "forks_count": 1377
-  },
-  {
-    "full_name": "tc39/proposals",
-    "stargazers_count": 14218,
-    "open_issues_count": 7,
-    "forks_count": 610
-  },
-  {
-    "full_name": "tsoonjin/selam",
-    "stargazers_count": 4,
-    "open_issues_count": 6,
-    "forks_count": 1
-  },
-  {
-    "full_name": "deterjan/samimi-selam",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "Tubular-Terriers/code-jam",
-    "stargazers_count": 3,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "python-discord/cj8-qualifier",
-    "stargazers_count": 94,
-    "open_issues_count": 0,
-    "forks_count": 91
   }
 ]
