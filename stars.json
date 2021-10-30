@@ -1,5 +1,35 @@
 [
   {
+    "full_name": "funbeedev/BibleBeforeBread",
+    "stargazers_count": 5,
+    "open_issues_count": 10,
+    "forks_count": 4
+  },
+  {
+    "full_name": "rep2recall/r2r-cli",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "Shobu95/sewistic_app",
+    "stargazers_count": 6,
+    "open_issues_count": 9,
+    "forks_count": 11
+  },
+  {
+    "full_name": "devtron-labs/devtron",
+    "stargazers_count": 1415,
+    "open_issues_count": 130,
+    "forks_count": 105
+  },
+  {
+    "full_name": "matomo-org/matomo",
+    "stargazers_count": 15544,
+    "open_issues_count": 1854,
+    "forks_count": 2211
+  },
+  {
     "full_name": "HiKaylum/SpaceX-PY",
     "stargazers_count": 10,
     "open_issues_count": 2,
@@ -13,57 +43,57 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 121777,
-    "open_issues_count": 226,
-    "forks_count": 32648
+    "stargazers_count": 121931,
+    "open_issues_count": 237,
+    "forks_count": 32702
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 43490,
-    "open_issues_count": 593,
-    "forks_count": 5721
+    "stargazers_count": 43528,
+    "open_issues_count": 609,
+    "forks_count": 5741
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 44512,
-    "open_issues_count": 6,
-    "forks_count": 5766
+    "stargazers_count": 44555,
+    "open_issues_count": 7,
+    "forks_count": 5774
   },
   {
     "full_name": "MohmedIkram/Hacktoberfest2021",
-    "stargazers_count": 64,
-    "open_issues_count": 24,
-    "forks_count": 220
+    "stargazers_count": 63,
+    "open_issues_count": 36,
+    "forks_count": 229
   },
   {
     "full_name": "arviz-devs/arviz",
-    "stargazers_count": 1106,
+    "stargazers_count": 1107,
     "open_issues_count": 192,
     "forks_count": 251
   },
   {
     "full_name": "MvvmCross/MvvmCross",
     "stargazers_count": 3579,
-    "open_issues_count": 267,
-    "forks_count": 1288
+    "open_issues_count": 260,
+    "forks_count": 1287
   },
   {
     "full_name": "Ishaan28malik/Hacktoberfest-2021",
-    "stargazers_count": 547,
-    "open_issues_count": 384,
-    "forks_count": 1431
+    "stargazers_count": 549,
+    "open_issues_count": 390,
+    "forks_count": 1439
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 21463,
-    "open_issues_count": 958,
-    "forks_count": 40563
+    "stargazers_count": 21493,
+    "open_issues_count": 986,
+    "forks_count": 40692
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 10020,
-    "open_issues_count": 1625,
-    "forks_count": 2292
+    "stargazers_count": 10046,
+    "open_issues_count": 1621,
+    "forks_count": 2293
   },
   {
     "full_name": "EliseeCode/exolingo",
@@ -96,7 +126,7 @@
     "forks_count": 202
   },
   {
-    "full_name": "Kamaleen0/pynightlight",
+    "full_name": "tomp2/pynightlight",
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
@@ -104,7 +134,7 @@
   {
     "full_name": "jborean93/smbprotocol",
     "stargazers_count": 145,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 48
   },
   {
@@ -121,7 +151,7 @@
   },
   {
     "full_name": "freeplane/freeplane",
-    "stargazers_count": 818,
+    "stargazers_count": 819,
     "open_issues_count": 64,
     "forks_count": 194
   },
@@ -139,7 +169,7 @@
   },
   {
     "full_name": "8427003/study-minix-os",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 1,
     "forks_count": 39
   },
@@ -148,35 +178,5 @@
     "stargazers_count": 13,
     "open_issues_count": 0,
     "forks_count": 3
-  },
-  {
-    "full_name": "alexis-martel/La-Revolte-RPG",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "git-learning-game/oh-my-git",
-    "stargazers_count": 739,
-    "open_issues_count": 64,
-    "forks_count": 51
-  },
-  {
-    "full_name": "google/model-viewer",
-    "stargazers_count": 3528,
-    "open_issues_count": 87,
-    "forks_count": 418
-  },
-  {
-    "full_name": "doublevcodes/englang",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "doublevcodes/inside-the-box",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
