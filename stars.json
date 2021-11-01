@@ -1,9 +1,33 @@
 [
   {
+    "full_name": "avinash201199/Competitions-and-Programs-List",
+    "stargazers_count": 30,
+    "open_issues_count": 0,
+    "forks_count": 36
+  },
+  {
+    "full_name": "avinash201199/To-Do-List",
+    "stargazers_count": 13,
+    "open_issues_count": 5,
+    "forks_count": 47
+  },
+  {
+    "full_name": "avinash201199/Hacktoberfest-Guide",
+    "stargazers_count": 15,
+    "open_issues_count": 1,
+    "forks_count": 34
+  },
+  {
+    "full_name": "avinash201199/Portfolio-Collection",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 11
+  },
+  {
     "full_name": "funbeedev/BibleBeforeBread",
     "stargazers_count": 5,
-    "open_issues_count": 11,
-    "forks_count": 4
+    "open_issues_count": 13,
+    "forks_count": 5
   },
   {
     "full_name": "rep2recall/r2r-cli",
@@ -12,20 +36,20 @@
     "forks_count": 0
   },
   {
-    "full_name": "Shobu95/sewistic_app",
+    "full_name": "Shobu95/SewisticApp",
     "stargazers_count": 6,
     "open_issues_count": 9,
     "forks_count": 11
   },
   {
     "full_name": "devtron-labs/devtron",
-    "stargazers_count": 1420,
-    "open_issues_count": 134,
-    "forks_count": 108
+    "stargazers_count": 1424,
+    "open_issues_count": 136,
+    "forks_count": 109
   },
   {
     "full_name": "matomo-org/matomo",
-    "stargazers_count": 15546,
+    "stargazers_count": 15553,
     "open_issues_count": 1852,
     "forks_count": 2211
   },
@@ -43,57 +67,57 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 121979,
-    "open_issues_count": 241,
-    "forks_count": 32727
+    "stargazers_count": 122073,
+    "open_issues_count": 231,
+    "forks_count": 32748
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 43540,
-    "open_issues_count": 614,
-    "forks_count": 5749
+    "stargazers_count": 43561,
+    "open_issues_count": 631,
+    "forks_count": 5758
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 44567,
-    "open_issues_count": 8,
-    "forks_count": 5780
+    "stargazers_count": 44594,
+    "open_issues_count": 6,
+    "forks_count": 5784
   },
   {
     "full_name": "MohmedIkram/Hacktoberfest2021",
-    "stargazers_count": 64,
-    "open_issues_count": 41,
-    "forks_count": 239
+    "stargazers_count": 68,
+    "open_issues_count": 6,
+    "forks_count": 253
   },
   {
     "full_name": "arviz-devs/arviz",
-    "stargazers_count": 1107,
+    "stargazers_count": 1108,
     "open_issues_count": 191,
     "forks_count": 251
   },
   {
     "full_name": "MvvmCross/MvvmCross",
     "stargazers_count": 3578,
-    "open_issues_count": 260,
+    "open_issues_count": 257,
     "forks_count": 1287
   },
   {
     "full_name": "Ishaan28malik/Hacktoberfest-2021",
-    "stargazers_count": 550,
-    "open_issues_count": 393,
-    "forks_count": 1452
+    "stargazers_count": 551,
+    "open_issues_count": 403,
+    "forks_count": 1466
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 21520,
-    "open_issues_count": 986,
-    "forks_count": 40711
+    "stargazers_count": 21552,
+    "open_issues_count": 994,
+    "forks_count": 40751
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 10055,
-    "open_issues_count": 1622,
-    "forks_count": 2293
+    "stargazers_count": 10056,
+    "open_issues_count": 1623,
+    "forks_count": 2294
   },
   {
     "full_name": "EliseeCode/exolingo",
@@ -103,9 +127,9 @@
   },
   {
     "full_name": "SysSn13/leetcode-rating-predictor",
-    "stargazers_count": 54,
+    "stargazers_count": 56,
     "open_issues_count": 5,
-    "forks_count": 10
+    "forks_count": 11
   },
   {
     "full_name": "tunakasif/Electromagnetic-Suspension-System",
@@ -133,7 +157,7 @@
   },
   {
     "full_name": "jborean93/smbprotocol",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 11,
     "forks_count": 48
   },
@@ -154,29 +178,5 @@
     "stargazers_count": 819,
     "open_issues_count": 64,
     "forks_count": 194
-  },
-  {
-    "full_name": "mob-programming-meetup/cloud-desktop",
-    "stargazers_count": 4,
-    "open_issues_count": 4,
-    "forks_count": 4
-  },
-  {
-    "full_name": "ncase/wbwwb",
-    "stargazers_count": 746,
-    "open_issues_count": 11,
-    "forks_count": 143
-  },
-  {
-    "full_name": "8427003/study-minix-os",
-    "stargazers_count": 85,
-    "open_issues_count": 1,
-    "forks_count": 39
-  },
-  {
-    "full_name": "skiptirengu/media-split",
-    "stargazers_count": 13,
-    "open_issues_count": 0,
-    "forks_count": 3
   }
 ]
