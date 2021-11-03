@@ -44,14 +44,14 @@
   {
     "full_name": "devtron-labs/devtron",
     "stargazers_count": 1426,
-    "open_issues_count": 136,
+    "open_issues_count": 135,
     "forks_count": 109
   },
   {
     "full_name": "matomo-org/matomo",
-    "stargazers_count": 15555,
-    "open_issues_count": 1854,
-    "forks_count": 2211
+    "stargazers_count": 15559,
+    "open_issues_count": 1859,
+    "forks_count": 2212
   },
   {
     "full_name": "HiKaylum/SpaceX-PY",
@@ -67,21 +67,21 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 122096,
-    "open_issues_count": 231,
-    "forks_count": 32751
+    "stargazers_count": 122162,
+    "open_issues_count": 227,
+    "forks_count": 32767
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 43561,
-    "open_issues_count": 631,
-    "forks_count": 5756
+    "stargazers_count": 43572,
+    "open_issues_count": 630,
+    "forks_count": 5754
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 44605,
+    "stargazers_count": 44621,
     "open_issues_count": 6,
-    "forks_count": 5787
+    "forks_count": 5792
   },
   {
     "full_name": "MohmedIkram/Hacktoberfest2021",
@@ -92,31 +92,31 @@
   {
     "full_name": "arviz-devs/arviz",
     "stargazers_count": 1108,
-    "open_issues_count": 181,
-    "forks_count": 251
+    "open_issues_count": 176,
+    "forks_count": 252
   },
   {
     "full_name": "MvvmCross/MvvmCross",
-    "stargazers_count": 3578,
-    "open_issues_count": 257,
+    "stargazers_count": 3580,
+    "open_issues_count": 259,
     "forks_count": 1287
   },
   {
     "full_name": "Ishaan28malik/Hacktoberfest-2021",
     "stargazers_count": 550,
     "open_issues_count": 403,
-    "forks_count": 1466
+    "forks_count": 1464
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 21552,
-    "open_issues_count": 995,
-    "forks_count": 40761
+    "stargazers_count": 21566,
+    "open_issues_count": 1024,
+    "forks_count": 40814
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 10056,
-    "open_issues_count": 1623,
+    "stargazers_count": 10058,
+    "open_issues_count": 1625,
     "forks_count": 2295
   },
   {
@@ -176,7 +176,7 @@
   {
     "full_name": "freeplane/freeplane",
     "stargazers_count": 819,
-    "open_issues_count": 64,
+    "open_issues_count": 65,
     "forks_count": 194
   }
 ]
