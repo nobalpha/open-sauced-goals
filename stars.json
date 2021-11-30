@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "iperov/DeepFaceLab",
+    "stargazers_count": 30056,
+    "open_issues_count": 358,
+    "forks_count": 6757
+  },
+  {
+    "full_name": "e4c6/yemeksepeti_api",
+    "stargazers_count": 5,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
     "full_name": "avinash201199/Competitions-and-Programs-List",
     "stargazers_count": 36,
     "open_issues_count": 0,
@@ -38,19 +50,19 @@
   {
     "full_name": "Shobu95/SewisticApp",
     "stargazers_count": 6,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 11
   },
   {
     "full_name": "devtron-labs/devtron",
-    "stargazers_count": 1529,
-    "open_issues_count": 140,
+    "stargazers_count": 1530,
+    "open_issues_count": 139,
     "forks_count": 115
   },
   {
     "full_name": "matomo-org/matomo",
-    "stargazers_count": 15634,
-    "open_issues_count": 1857,
+    "stargazers_count": 15643,
+    "open_issues_count": 1864,
     "forks_count": 2219
   },
   {
@@ -67,31 +79,31 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 124166,
+    "stargazers_count": 124376,
     "open_issues_count": 226,
-    "forks_count": 33189
+    "forks_count": 33240
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 44056,
+    "stargazers_count": 44163,
     "open_issues_count": 625,
-    "forks_count": 5797
+    "forks_count": 5813
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 45329,
+    "stargazers_count": 45356,
     "open_issues_count": 9,
-    "forks_count": 5934
+    "forks_count": 5938
   },
   {
     "full_name": "MohmedIkram/Hacktoberfest2021",
     "stargazers_count": 66,
     "open_issues_count": 6,
-    "forks_count": 240
+    "forks_count": 239
   },
   {
     "full_name": "arviz-devs/arviz",
-    "stargazers_count": 1115,
+    "stargazers_count": 1116,
     "open_issues_count": 152,
     "forks_count": 255
   },
@@ -99,35 +111,35 @@
     "full_name": "MvvmCross/MvvmCross",
     "stargazers_count": 3588,
     "open_issues_count": 268,
-    "forks_count": 1287
+    "forks_count": 1289
   },
   {
     "full_name": "Ishaan28malik/Hacktoberfest-2021",
-    "stargazers_count": 546,
+    "stargazers_count": 545,
     "open_issues_count": 404,
-    "forks_count": 1452
+    "forks_count": 1451
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 21720,
-    "open_issues_count": 1162,
-    "forks_count": 41241
+    "stargazers_count": 21733,
+    "open_issues_count": 1172,
+    "forks_count": 41275
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 10145,
-    "open_issues_count": 1609,
-    "forks_count": 2317
+    "stargazers_count": 10146,
+    "open_issues_count": 1606,
+    "forks_count": 2318
   },
   {
     "full_name": "EliseeCode/exolingo",
     "stargazers_count": 1,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "open_issues_count": 2,
+    "forks_count": 1
   },
   {
     "full_name": "SysSn13/leetcode-rating-predictor",
-    "stargazers_count": 64,
+    "stargazers_count": 70,
     "open_issues_count": 4,
     "forks_count": 11
   },
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "deiv/driftnet",
-    "stargazers_count": 363,
+    "stargazers_count": 362,
     "open_issues_count": 13,
     "forks_count": 48
-  },
-  {
-    "full_name": "DevHedronYT/c_std_lib",
-    "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "freeplane/freeplane",
-    "stargazers_count": 826,
-    "open_issues_count": 66,
-    "forks_count": 197
   }
 ]
