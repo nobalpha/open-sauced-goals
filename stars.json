@@ -1,9 +1,9 @@
 [
   {
     "full_name": "iperov/DeepFaceLab",
-    "stargazers_count": 31460,
-    "open_issues_count": 397,
-    "forks_count": 7147
+    "stargazers_count": 31508,
+    "open_issues_count": 399,
+    "forks_count": 7159
   },
   {
     "full_name": "e4c6/yemeksepeti_api",
@@ -55,15 +55,15 @@
   },
   {
     "full_name": "devtron-labs/devtron",
-    "stargazers_count": 1782,
-    "open_issues_count": 215,
-    "forks_count": 148
+    "stargazers_count": 1783,
+    "open_issues_count": 219,
+    "forks_count": 150
   },
   {
     "full_name": "matomo-org/matomo",
-    "stargazers_count": 16018,
-    "open_issues_count": 1926,
-    "forks_count": 2263
+    "stargazers_count": 16024,
+    "open_issues_count": 1925,
+    "forks_count": 2267
   },
   {
     "full_name": "HiKaylum/SpaceX-PY",
@@ -79,21 +79,21 @@
   },
   {
     "full_name": "TheAlgorithms/Python",
-    "stargazers_count": 130121,
-    "open_issues_count": 246,
-    "forks_count": 34420
+    "stargazers_count": 130572,
+    "open_issues_count": 249,
+    "forks_count": 34499
   },
   {
     "full_name": "sdmg15/Best-websites-a-programmer-should-visit",
-    "stargazers_count": 46007,
+    "stargazers_count": 46066,
     "open_issues_count": 625,
-    "forks_count": 6058
+    "forks_count": 6066
   },
   {
     "full_name": "leonardomso/33-js-concepts",
-    "stargazers_count": 47351,
+    "stargazers_count": 47430,
     "open_issues_count": 12,
-    "forks_count": 6365
+    "forks_count": 6378
   },
   {
     "full_name": "MohmedIkram/Hacktoberfest2021",
@@ -104,32 +104,32 @@
   {
     "full_name": "arviz-devs/arviz",
     "stargazers_count": 1173,
-    "open_issues_count": 150,
+    "open_issues_count": 147,
     "forks_count": 267
   },
   {
     "full_name": "MvvmCross/MvvmCross",
-    "stargazers_count": 3620,
+    "stargazers_count": 3619,
     "open_issues_count": 276,
     "forks_count": 1299
   },
   {
     "full_name": "Ishaan28malik/Hacktoberfest-2021",
-    "stargazers_count": 529,
+    "stargazers_count": 528,
     "open_issues_count": 400,
     "forks_count": 1418
   },
   {
     "full_name": "firstcontributions/first-contributions",
-    "stargazers_count": 22393,
-    "open_issues_count": 1661,
-    "forks_count": 43190
+    "stargazers_count": 22431,
+    "open_issues_count": 1671,
+    "forks_count": 43227
   },
   {
     "full_name": "OpenRA/OpenRA",
-    "stargazers_count": 10573,
-    "open_issues_count": 1608,
-    "forks_count": 2361
+    "stargazers_count": 10583,
+    "open_issues_count": 1613,
+    "forks_count": 2365
   },
   {
     "full_name": "EliseeCode/exolingo",
@@ -139,8 +139,8 @@
   },
   {
     "full_name": "SysSn13/leetcode-rating-predictor",
-    "stargazers_count": 167,
-    "open_issues_count": 7,
+    "stargazers_count": 168,
+    "open_issues_count": 2,
     "forks_count": 15
   },
   {
@@ -151,13 +151,13 @@
   },
   {
     "full_name": "mdisec/golang-for-hackers-turkish-edition",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 0,
     "forks_count": 20
   },
   {
     "full_name": "browserify/watchify",
-    "stargazers_count": 1786,
+    "stargazers_count": 1785,
     "open_issues_count": 40,
     "forks_count": 203
   },
@@ -170,13 +170,13 @@
   {
     "full_name": "jborean93/smbprotocol",
     "stargazers_count": 165,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 50
   },
   {
     "full_name": "deiv/driftnet",
-    "stargazers_count": 375,
-    "open_issues_count": 17,
+    "stargazers_count": 376,
+    "open_issues_count": 16,
     "forks_count": 51
   }
 ]
